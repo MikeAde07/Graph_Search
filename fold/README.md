@@ -1,9 +1,5 @@
 # Graph_Search
 
-- Adeniran, Michael
-- ID : 1002232183
-- PL : Python 3
-
 - Graph search using uniform cost search
 -   Users are prompted to enter file path, starting city, and final destination
 -   nodes generated, expanded, and popped are printed once/if the goal destination has been reached
